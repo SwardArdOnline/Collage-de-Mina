@@ -1,0 +1,5 @@
+# Pega aquí una URL de imagen por línea.
+# Las líneas que empiecen con # se ignoran.
+# Ejemplo:
+# https://ejemplo.com/foto1.jpg
+# https://ejemplo.com/foto2.png
